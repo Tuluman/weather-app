@@ -23,8 +23,14 @@ h1 {
 .units {
   font-size: 28px;
 }
-.card-header,
 footer {
+  text-align: center;
+}
+.footer {
+  text-decoration: none;
+  color: black;
+}
+.card-header {
   padding: auto;
 }
 .colw {
