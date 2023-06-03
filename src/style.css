@@ -23,7 +23,8 @@ h1 {
 .units {
   font-size: 28px;
 }
-.card-header {
+.card-header,
+footer {
   padding: auto;
 }
 .colw {
